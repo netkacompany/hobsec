@@ -10,13 +10,18 @@
 
 Hobsec is an integrated cyber intelligence solution that, with AI, can prevent unauthorized access, data leakage, phishing, ransomware, brute force, spoofing, backdoor, bots, ddos, worms, trojan, spyware, adware, pharming, bluesnarfing , decoy.
 
-# About Hobsec
+## About Hobsec
 
 Hobsec SA is an information security startup from Rio Grande do Sul, expanding the security of products and services.
 In this way, companies of any branch can easily access security services.
 We were born to improve the security of companies. So they can focus on growing their business instead of wasting time on technical and complicated security processes.
 Through a platform built from the ground up with a focus on digital business, we create a brilliant, easy and humanized experience.
 Hobsec is the leader in integrated cyber intelligence solution in Latin America. We are responsible for ensuring the security of +40 startups and impacting +82MM users.
+
+## Motivation
+
+Sou o Bruno Zilio, Fundador e CEO da Hobsec. No ano de 2018 com apenas 14 anos, encontrei um grande problema no mercado, pequenas e médias empresas não tinha um software ou uma área de segurança da informação, por ser um investimento muito auto e que não gera lucro imediato. De fato, só vemos quão lucrativo é investir em segurança quando somos hackeados, e nossos clientes que investimos muito para ser nosso cliente vão embora pela insegurança. eu construir uma startup open-source que tem como sua missão construir soluções de segurança cibernética com uma experiência e qualidade de serviço que possibilita empresas aumentar a segurança de seus produtos e serviços,
+Assim possibilitando que empresas de qualquer ramo possam ter acesso a serviços de segurança, Nascemos para melhorar a segurança das empresas. Para que assim, elas possam focar no crescimento de seus negócios, ao invés de perder um grande tempo com os processos técnicos e complicados de segurança, através de uma plataforma criada do zero construída com nas necessidades de negócios digitais, criamos uma experiência genial, fácil e humanizada.
 
 ## Need help?
 
