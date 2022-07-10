@@ -1,0 +1,22 @@
+{
+  "name": "hobsec",
+  "version": "1.0.0",
+  "description": "Hobsec is an integrated cyber intelligence solution that, with AI, can prevent unauthorized access, data leakage, phishing, ransomware, brute force, spoofing, backdoor, bots, ddos, worms, trojan, spyware, adware, pharming, bluesnarfing , decoy.",
+  "workspaces": [
+    "./api",
+    "./app",
+    "./cli",
+    "./npm",
+    "./websocket"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hobsec-sa/hobsec.git"
+  },
+  "author": "hobsec-sa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hobsec-sa/hobsec/issues"
+  },
+  "homepage": "https://github.com/hobsec-sa/hobsec#readme"
+}
