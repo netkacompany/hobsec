@@ -1,0 +1,26 @@
+{
+  "name": "hobsec-npm",
+  "main": "./build/src/index.js",
+  "types": "./build/src/index.d.ts",
+  "files": [
+    "build/**/*"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test:watch": "jest --watch",
+    "test": "jest --coverage",
+    "deploy": "npm publish"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.22",
+    "@types/jest": "^28.1.4",
+    "@types/node": "^16.10.2",
+    "ts-jest": "^28.0.5",
+    "ts-node": "^10.2.1",
+    "tslint": "^6.1.3",
+    "typescript": "~4.4.3"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
