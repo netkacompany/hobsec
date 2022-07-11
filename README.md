@@ -6,6 +6,8 @@
 
 <p align="center">Protect, monitor and defend!</p>
 
+> :warning: **This project is under development**: MVP 1 launch scheduled for 10/03/2022
+
 ## Overview
 
 Hobsec is an integrated cyber intelligence solution that, with AI, can prevent unauthorized access, data leakage, phishing, ransomware, brute force, spoofing, backdoor, bots, ddos, worms, trojan, spyware, adware, pharming, bluesnarfing , decoy.
