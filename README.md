@@ -12,17 +12,9 @@
 
 Hobsec is an integrated cyber intelligence solution that, with AI, can prevent unauthorized access, data leakage, phishing, ransomware, brute force, spoofing, backdoor, bots, ddos, worms, trojan, spyware, adware, pharming, bluesnarfing , decoy.
 
-## About Hobsec
+## About the Hobsec
 
-Hobsec SA is an information security startup from Rio Grande do Sul, expanding the security of products and services.
-In this way, companies of any branch can easily access security services.
-We were born to improve the security of companies. So they can focus on growing their business instead of wasting time on technical and complicated security processes.
-Through a platform built from the ground up with a focus on digital business, we create a brilliant, easy and humanized experience.
-Hobsec is the leader in integrated cyber intelligence solution in Latin America. We are responsible for ensuring the security of +40 startups and impacting +82MM users.
-
-## Motivation
-
-I'm Bruno Zilio, Founder and CEO of Hobsec. In 2018, with only 14 years old, I found a big problem in the market, small and medium-sized companies did not have software or information security area, as it is a big investment and does not generate immediate profit. In fact, we only see how profitable it is to invest in security when we are hacked, and our customers that we work hard to win, end the partnership due to insecurity. I built an open-source startup, whose mission is to build cybersecurity solutions with an experience and quality of service that allows companies to increase the security of their products and services, thus enabling companies of any branch to have access to safety. We were created to improve security for companies so they can focus on growing their business instead of wasting time on complicated technical processes. through a platform built from scratch, built with a focus on digital business needs, we create a brilliant, easy and humanized experience.
+I'm Bruno Zilio, Founder and CEO of Hobsec. In 2018, with only 14 years old, I found a big problem in the market, small and medium-sized companies did not have software or information security area, as it is a big investment and does not generate immediate profit. In fact, we only see how profitable it is to invest in security when we are hacked, and our customers that we work hard to win, end the partnership due to insecurity. I built an open-source startup, whose mission is to build cybersecurity solutions with an experience and quality of service that allows companies to increase the security of their products and services, thus enabling companies of any branch to have access to safety. We were created to improve security for companies so they can focus on growing their business instead of wasting time on complicated technical processes. through a platform built from scratch, built with a focus on digital business needs, we create a brilliant, easy and humanized experience. Hobsec is the leader in integrated cyber intelligence solution in Latin America. We are responsible for ensuring the security of +40 startups and impacting +82MM users.
 
 ## Need help?
 
